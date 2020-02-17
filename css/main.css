@@ -52,11 +52,11 @@ p {
     display: block;
     width: 32px;
     height: 32px;
-    background-image: url("icons/back.png");
+    background-image: url("../icons/back.png");
 }
 
 .button_container:hover {
-    background-image: url("icons/back_hover.png");
+    background-image: url("../icons/back_hover.png");
 }
 
 #logo{
